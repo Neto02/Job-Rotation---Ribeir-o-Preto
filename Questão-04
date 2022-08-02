@@ -1,0 +1,21 @@
+x1 = v1t | x2 = 100km - v2t
+
+tempo de viagem sem os obstáculos = 100km/80km = 1,25h
+
+minutos pra hora = 5 * 0,0166667 = 0,17
+
+viagem para o caminhão = 1,25 + 0,17 = 1,42h
+
+velocidade média para o caminhão = 100/1,42 = 70,6km/h
+
+igualar o tempo de ambas para achar o ponto de encontro 
+
+t = x1/v1 
+
+t = (x2 - 100km)/-v2
+
+x1 = x2  = x/v1 = (x -100km)/v2
+
+-v2 x = v1 x - v1 100km
+
+x = (v1 100km)/v1+v2 = (110 * 100)/110 + 70,6 = 60,9km/h
